@@ -1,0 +1,23 @@
+{
+  "name": "get-the-groups-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcbq/get-the-groups-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrcbq/get-the-groups-challenge/issues"
+  },
+  "homepage": "https://github.com/mrcbq/get-the-groups-challenge#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
