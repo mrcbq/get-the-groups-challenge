@@ -5,3 +5,10 @@ const queryType = ['Friend', 'Total'];
 const student1 = [1, 2];
 const student2 = [2, 3];
 
+function getTheGroups(n, queryType, student1, student2){
+
+  
+
+}
+
+module.exports = getTheGroups
